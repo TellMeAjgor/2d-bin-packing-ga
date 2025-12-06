@@ -1,4 +1,4 @@
-# Optymalizator Układania Palet
+# Optymalizator układnia paczek na palecie
 
 Skrypt układa paczki na palecie, optymalizując miejsce (Fill Rate) i stabilność (Środek Ciężkości). Generuje wizualizację wyniku.
 
